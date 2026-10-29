@@ -1,0 +1,11 @@
+[
+  {
+    "display_name": "AlooyTV",
+    "value": "alooytv",
+    "version": "1.0",
+    "icon": "https://cdn.jsdelivr.net/gh/Zenda-Cross/vega-providers@main/assets/alooytv.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  }
+]

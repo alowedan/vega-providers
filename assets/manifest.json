@@ -1,0 +1,343 @@
+[
+  {
+    "display_name": "AlooyTV",
+    "value": "alooytv",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/alooytv.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Yacine TV",
+    "value": "yacinetv",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/yacinetv.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "display_name": "EgyWatch",
+    "value": "egywatch",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/egywatch.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "display_name": "Shahid4u",
+    "value": "shahid4u",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/shahid4u.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "FaselHD",
+    "value": "faselhd",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/faselhd.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "MyCima",
+    "value": "mycima",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/mycima.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Akwam",
+    "value": "akwam",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/akwam.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "3isk",
+    "value": "3isk",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/3isk.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Anime4up",
+    "value": "anime4up",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/anime4up.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "TukTukCima",
+    "value": "tuktukcima",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/tuktukcima.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "EgyDead",
+    "value": "egydead",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/egydead.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "TopCinema",
+    "value": "topcinema",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/topcinema.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "ArabSeed",
+    "value": "arabseed",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/arabseed.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Krmzy",
+    "value": "krmzy",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/krmzy.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "CimaClub",
+    "value": "cimaclub",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/cimaclub.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "CimaLight",
+    "value": "cimalight",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/cimalight.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "CimaTn",
+    "value": "cimatn",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/cimatn.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Tuniflix",
+    "value": "tuniflix",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/tuniflix.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "TuniflexBlog",
+    "value": "tuniflexblog",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/tuniflexblog.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "TVgarden",
+    "value": "tvgarden",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/tvgarden.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Lodynet",
+    "value": "lodynet",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/lodynet.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Shahidwbas",
+    "value": "shahidwbas",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/shahidwbas.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "ReplayMatch",
+    "value": "replaymatch",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/replaymatch.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Asia2TV",
+    "value": "asia2tv",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/asia2tv.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Animerco",
+    "value": "animerco",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/animerco.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Anime3rb",
+    "value": "anim3rb",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/anim3rb.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "AnimeWitcher",
+    "value": "animewitcher",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/animewitcher.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "DimaToon",
+    "value": "dima-toon",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/dima-toon.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "WatanFlix",
+    "value": "watanflix",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/watanflix.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "CimaFu",
+    "value": "cimafu",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/cimafu.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Shahiid Anime",
+    "value": "shahiid-anime",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/shahiid-anime.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Animeiat",
+    "value": "animeiat",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/animeiat.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "CimaNow",
+    "value": "cimanow",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/cimanow.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "WeCima",
+    "value": "wecima",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/wecima.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Eseek",
+    "value": "eseek",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/eseek.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Aflaam",
+    "value": "aflaam",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/aflaam.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "MovieBox Web",
+    "value": "movieBoxWeb",
+    "version": "2.5",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/movieBoxWeb.png",
+    "type": "arabic",
+    "disabled": false
+  },
+  {
+    "display_name": "AnimePhoenix",
+    "value": "anime-phoenix",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/alowedan/vega-arabic/main/assets/anime-phoenix.png",
+    "type": "arabic",
+    "disabled": false,
+    "hasSettings": true
+  }
+]
